@@ -1,4 +1,4 @@
-# Unitronics Rockwell Communication
+# Communication between PLC Unitronics with PLC Rockwell  (Ethernet/IP or EIP)
 Comunications between Unitronics Unistream with ControlLogix Rockwell
 
 In this repository you can find the ControlLogix and Unistream Code.
